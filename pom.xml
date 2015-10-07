@@ -32,8 +32,8 @@
             <groupId>org.jcvi</groupId>
             <artifactId>jillion</artifactId>
             <version>4.2</version>
-            <!--<scope>system</scope>-->
-            <!--<systemPath>${basedir}/lib/Jillion-4.2.jar</systemPath>-->
+            <scope>system</scope>
+            <systemPath>${basedir}/lib/Jillion-4.2.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>org.graphstream</groupId>
